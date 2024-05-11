@@ -46,7 +46,7 @@ def main():
     choice = st.sidebar.selectbox('Pick an option', menu)
 
     if choice == 'Home':
-        st.write('Hello world! Welcome to the greatest movie recommender system ever 🎞️🍿')
+        st.write('Hello world! Welcome to \'The Greatest Movie Recommender System Ever\' 🎞️🍿')
         st.write('Choose an option from the sidebar :)')
         st.write('© 2024 Dana AlSiddig. All Rights Reserved. >:)')
 
